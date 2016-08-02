@@ -1,0 +1,2 @@
+# stingserv
+stingatoare incendii
